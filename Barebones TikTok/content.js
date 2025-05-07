@@ -38,7 +38,7 @@ style.textContent = `
     width: 55vh;
     height: 90vh;
     border-radius: 16px;
-    border: 1px solid white;
+    border: 1px solid #404040;
   }
 `;
 document.head.appendChild(style);
