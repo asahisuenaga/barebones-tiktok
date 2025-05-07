@@ -1,10 +1,8 @@
 const style = document.createElement('style');
 style.textContent = `
-  /* Your full CSS block pasted here */
-  .e1u58fka5 .css-sryafa-DivFooterContainer, .e1u58fka5 .e1u58fka7 .css-qrbz7k-DivUserContainer, .e1u58fka5 .TUXTooltip-reference:nth-child(9) .css-19eo4dx-StyledTUXNavButton, .css-tp3532-DivTriggerButtonWrapper a .css-19eo4dx-StyledTUXNavButton, #main-content-homepage_hot .e1nwyro20 .css-1o2f1ti-DivFeedNavigationContainer, #apk-button-at-bottom-right, .e1u58fka5 a .css-89vl65-StyledTUXNavButton, .e1u58fka5 .TUXTooltip-reference:nth-child(2) .css-19eo4dx-StyledTUXNavButton, .e1u58fka5 .TUXTooltip-reference:nth-child(6), #app .e1u58fka9,  .e1u58fka5 .TUXTooltip-reference:nth-child(9), .css-tp3532-DivTriggerButtonWrapper a .css-12po2n4-StyledTUXNavButton, .css-glvoiv-DivPromotionContainer, .e1u58fka5 .TUXTooltip-reference:nth-child(1), .e1u58fka5 .TUXTooltip-reference:nth-child(2) .css-12po2n4-StyledTUXNavButton, .e1u58fka5 .TUXTooltip-reference:nth-child(1), .e1u58fka5 .TUXTooltip-reference:nth-child(2) .css-12po2n4-StyledTUXNavButton, #creator-tools-selection-menu-header .css-19unwpq-LiMoreButtonContainer:nth-child(1), #creator-tools-selection-menu-header .css-19unwpq-LiMoreButtonContainer:nth-child(2), #creator-tools-selection-menu-header .css-19unwpq-LiMoreButtonContainer:nth-child(3), div .more-menu-popover .TUXMenuItem:nth-child(2), div .more-menu-popover .TUXMenuItem:nth-child(3), #app .ege8lhx2 .css-1czmy9n-DivVideoList, .ege8lhx2 .css-vcqawy-DivRelatedMask .css-xcst97-DivRecommendListContainer, .ege8lhx2 div .TUXMenuItem:nth-child(4), .ege8lhx2 .css-vcqawy-DivRelatedMask .css-1uazfdv-DivArrow, .ege8lhx2 .css-vcqawy-DivRelatedMask .css-107hjm0-DivArrow, .ege8lhx2 .css-qafyw5-DivListWrapper, .ege8lhx2 .css-pc9czd-DivLeftContainer > p:nth-child(2), .ege8lhx2 .css-1elr43g-DivActionBarWrapper .css-z6mz7r-DivVideoSwitchWrapper {
+  #app .ege8lhx2 .css-1czmy9n-DivVideoList, .ege8lhx2 .css-vcqawy-DivRelatedMask .css-xcst97-DivRecommendListContainer, .ege8lhx2 .css-vcqawy-DivRelatedMask .css-1uazfdv-DivArrow, .ege8lhx2 .css-vcqawy-DivRelatedMask .css-107hjm0-DivArrow, .ege8lhx2 div .TUXMenuItem:nth-child(4) {
     display: none !important;
   }
-
   #app .ege8lhx2 .css-1senhbu-DivLeftContainer {
     width: 100%;
     margin-right: 0px;
