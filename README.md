@@ -38,11 +38,20 @@ To change that website:
 
 ```js
 url: "https://www.startup.horse"
+```
+
+3. Replace the link with any valid URL.
+
+```js
+url: "https://www.awesomesite.com"
+```
 
 ## 🚫 Please Don’t Upload This
 
 This extension is shared for **personal use only**.
+
 Do not upload it to the Chrome Web Store, Edge Add-ons, or any public store **without permission**.
+
 This is a focused tool made to help people avoid distractions — not something meant for commercial use.
 **Please respect the intention.**
 
