@@ -46,15 +46,6 @@ url: "https://www.startup.horse"
 url: "https://www.awesomesite.com"
 ```
 
-## 🚫 Please Don’t Upload This
-
-This extension is shared for **personal use only**.
-
-Do not upload it to the Chrome Web Store, Edge Add-ons, or any public store **without permission**.
-
-This is a focused tool made to help people avoid distractions — not something meant for commercial use.
-**Please respect the intention.**
-
 ## Contributing
 
 We welcome contributions to make Barebones TikTok even better! If you have suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
