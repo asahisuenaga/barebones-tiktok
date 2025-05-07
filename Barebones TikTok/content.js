@@ -14,6 +14,10 @@ style.textContent = `
     margin-right: 0px;
   }
 
+  #main-content-video_detail{
+      background-color: #000000;
+  }
+
   #app .css-flkb7b-DivSideNavPlaceholderContainer,
   .ege8lhx2 .eqrezik17,
   .ege8lhx2 .css-x4xlc7-DivCommentContainer,
@@ -34,6 +38,7 @@ style.textContent = `
     width: 55vh;
     height: 90vh;
     border-radius: 16px;
+    border: 1px solid white;
   }
 `;
 document.head.appendChild(style);
