@@ -25,6 +25,8 @@ It removes everything distracting from TikTok and only allows direct video links
 
 Done! Now any TikTok page that isn’t a video will be blocked and redirected.
 
+**⚠️ Warning** If Auto Scroll is ON, the extension will not work. Please disable the extension and right click a video to turn OFF this setting.
+
 ---
 
 ## 🔁 Change the Redirected Video
